@@ -1,0 +1,30 @@
+# Redes de Computadores – Conceitos Básicos
+
+Este arquivo contém noções iniciais sobre redes de computadores
+
+## Conceitos Iniciais
+- O que é uma rede de computadores
+- Tipos de rede: LAN, WAN, WLAN
+- Comunicação entre dispositivos
+
+## Endereçamento IP
+- O que é endereço IP
+- Diferença entre IP público e privado
+- IPv4 e IPv6
+- Comando ipconfig / ifconfig
+
+## Conectividade
+- Teste de conexão (ping)
+- Verificação de gateway e DNS
+- Identificação de problemas de rede
+
+## Equipamentos de Rede
+- Modem
+- Roteador
+- Switch
+- Access Point
+
+## Wi-Fi
+- Conceito de redes sem fio
+- Segurança em redes Wi-Fi
+- Problemas comuns de conexão
